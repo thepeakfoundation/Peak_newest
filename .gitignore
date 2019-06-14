@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log
+
+# Grunt (not used but here if necessary)
+.grunt
+
+# Bower dependency list (Directory, not used yet)
+bower_components
+
+# NPM dependencies
+node_modules/
+
+# NPM cache directory
+.npm
+
+
+# other
+*.tgz
+*.cache
+.env
+.env.test
+
