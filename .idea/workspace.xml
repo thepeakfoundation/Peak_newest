@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/workers/IPFSWorker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="230">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -89,8 +89,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2697" />
-    <option name="y" value="41" />
+    <option name="x" value="2602" />
+    <option name="y" value="429" />
     <option name="width" value="2289" />
     <option name="height" value="1216" />
   </component>
@@ -111,12 +111,6 @@
               <item name="PeakPorn_v3" type="b2602c69:ProjectViewProjectNode" />
               <item name="PeakPorn_v3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PeakPorn_v3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PeakPorn_v3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="workers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,12 +164,12 @@
       <workItem from="1559508587262" duration="1342000" />
       <workItem from="1560366737876" duration="3871000" />
       <workItem from="1560442576876" duration="367000" />
-      <workItem from="1560555289038" duration="441000" />
+      <workItem from="1560555289038" duration="1336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22868000" />
+    <option name="totallyTimeSpent" value="23763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,13 +181,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2697" y="41" width="2289" height="1216" extended-state="0" />
+    <frame x="2602" y="429" width="2289" height="1216" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4899846" visible="true" weight="0.1559633" />
-      <window_info id="Structure" order="2" sideWeight="0.5100154" side_tool="true" visible="true" weight="0.1559633" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4995587" visible="true" weight="0.40784672" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7599487" visible="true" weight="0.15246832" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.24005134" side_tool="true" visible="true" weight="0.15246832" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4995587" visible="true" weight="0.28923357" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5004413" side_tool="true" weight="0.32620817" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -263,8 +257,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workers/IPFSWorker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="230">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
