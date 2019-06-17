@@ -10,6 +10,8 @@ node@10.16.0
 
 ### Development
 
+REMEMBER: always have latest version locally.
+
 **Install**
 1. Install [nodejs](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) (should be installed with nodejs).
 2. In Terminal: \
