@@ -15,6 +15,10 @@ node_modules/
 # NPM cache directory
 .npm
 
+# Local database directory (in /experimental/experimentalDB)
+experimental/experimentalDB/pouchdb-orbit_store
+experimental/experimentalDB/orbitdb-kv_storage
+experimental/orbitdb
 
 # other
 *.tgz
